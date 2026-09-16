@@ -1,0 +1,39 @@
+CS2211  Software Tools and Systems Programming
+    36% Assignments(3, 12% each)
+    07% Participation(best 7/10)
+    07% Lab Submissions(best 7/9)
+    15% Midterm Test
+    35% Final Exam
+
+    Average at least 50% on midterm, assignments and final.
+
+
+
+CS2210 Data Structures and Algorithms
+    04% Concept Assignments(2, 2% each)
+    18% Programming Assignments(3, 6% each)
+    30% Midterm Exam
+    48% Final Exam
+
+    Average at least 55% on exams and assignments.
+
+
+
+CS2214 Discrete Structures for Computing
+    10% Assignments(2/3, 5% each)
+    06% Online Quizzes(3/4, 2% each)
+    34% Midterm Exam
+    50% Final Exam
+
+    Average at least 50% on midterm and final exam.
+
+
+
+CS2208 Introduction to Computer Organization and Architecture
+    12% Quizzes
+    06% Assignments
+    09% Labs
+    28% Midterm Test
+    45% Final Exam
+
+    Average at least 60% or higher on finals + midterm marks.
