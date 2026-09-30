@@ -70,7 +70,7 @@ Source Code &rarr; OS specific compiler &rarr; OS specific code &rarr; OS output
 
 ## Interpreting in Python/java _todo_
 
-Source Code &rarr; compiler &rarr; byte code &raar; interpreter translates into os specific code &rarr; OS output
+Source Code &rarr; compiler &rarr; byte code &rarr; interpreter translates into os specific code &rarr; OS output
 
 ## C
 
